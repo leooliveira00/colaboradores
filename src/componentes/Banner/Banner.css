@@ -1,0 +1,18 @@
+.banner {
+    background-color:#010b44;
+    text-align: center; 
+    background-image: url('/public/imagens/banner.png');
+    background-size: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin: 0.5%;
+    border-radius: 20px;
+
+}
+
+
+.titulo_topo {
+    color: rgb(255, 255, 255);
+    font:Arial, sans-serif;
+    font-size: 60px;
+}
